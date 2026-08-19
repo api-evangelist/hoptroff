@@ -35,7 +35,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: http://static1.squarespace.com/static/5f8466fa605d020d192fb23a/t/6814a73518d93e408b5a0fd9/1766076647920/Hoptroff_Home_Social.png?format=1500w
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
