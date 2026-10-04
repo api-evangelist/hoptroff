@@ -59,7 +59,7 @@ tags:
 - IEEE 1588
 - Traceability
 - Compliance
-- Financial-Services
+- Financial Services
 - MiFID II
 tags_raw:
 - Company
@@ -73,6 +73,7 @@ tags_raw:
 - Compliance
 - Financial Services
 - MiFID II
+- Financial-Services
 apis: []
 common:
 - type: Website
